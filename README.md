@@ -1,16 +1,14 @@
-# aimed_lab_assignment
+# Aimed Labs Assignment
 
-A new Flutter project.
+## Screenshots
+![Screenshot 2023-10-27 193121](https://github.com/vrundraval24/Aimed-Labs-Assignment/assets/141143426/ee523cc6-b983-4367-acd7-8fa348725ce5)
+![Screenshot 2023-10-27 193138](https://github.com/vrundraval24/Aimed-Labs-Assignment/assets/141143426/19570c32-1098-41c7-81f9-ab82e44de8f3)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screen Recording
+https://github.com/vrundraval24/Aimed-Labs-Assignment/assets/141143426/54c20b72-18dc-49fc-96d5-00282756ec16
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
